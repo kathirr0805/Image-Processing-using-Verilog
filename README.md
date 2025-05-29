@@ -112,11 +112,6 @@ Anna University, Coimbatore
 
 This project is for educational purposes. You may use or modify it freely with attribution.
 
-## Access Project Files
-
-All project files, including Verilog source code and documentation, are available on Google Drive:
-
-[**Access Project Files on Google Drive**](https://drive.google.com/your-folder-link-here)
 
 **Instructions to Access**:
 1. Click the link above to open the Google Drive folder.
